@@ -1,5 +1,6 @@
 ## Практическая работа №1.
-## Размещение IT-проекта в интернет с использованием веб-сервисов GitHub и GitPages.
+Размещение IT-проекта в интернет с использованием веб-сервисов GitHub и GitPages.
 
 [Реферат](https://github.com/Allenykh/IoT-report/edit/main/essey.docx) 
+
 [Отчёт по практической работе](https://github.com/Allenykh/IoT-report/edit/main/report.docx) 
